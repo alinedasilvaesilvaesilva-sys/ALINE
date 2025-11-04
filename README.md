@@ -227,7 +227,6 @@ Por outro lado, os defensores das cotas argumentam que o racismo estrutural no B
         </section>
        
             <ul>
-                <li><strong>Local:</strong> Escola [Nome da Escola]</li>
             </ul>
         </section>
     </main>
